@@ -10,11 +10,10 @@ This project evaluates displacement efficiency in the Bombay High Offshore Basin
 - Carbonate and Bicarbonate
 - Dissolved O2
 - Scaling
-- 
-![image](https://github.com/user-attachments/assets/c7472757-5bac-47e2-ae09-ce9d4ec0ef3e)
 - Flocculator - Used for Coagulation & Flocculation
-![image](https://github.com/user-attachments/assets/df9a7e57-9ed9-4149-a15a-233576b32a84)
+![image](https://github.com/user-attachments/assets/c7472757-5bac-47e2-ae09-ce9d4ec0ef3e)
 - Filtration Assembly
+![image](https://github.com/user-attachments/assets/df9a7e57-9ed9-4149-a15a-233576b32a84)
   
 ## Key Objectives
 - Analyze effluent water for injection compatibility
